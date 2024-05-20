@@ -1,4 +1,4 @@
-Hi there 👋
+Howdy 👋
 
 - 🔭 I’m currently working on Machine learning Projects.
 - 🌱 I’m currently learning Reinforcement Learning.
