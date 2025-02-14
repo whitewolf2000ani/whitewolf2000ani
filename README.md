@@ -1,6 +1,6 @@
 Howdy 👋
 
-- 🔭 I’m currently working on Machine learning Projects.
+- 🔭 I’m currently working on Machine learning and Blockchain Projects.
 - 🌱 I’m currently learning Reinforcement Learning.
 - 👯 I’m looking to collaborate on Projects on low level language and Machine learning.
 - 🤔 I’m looking for help with understanding large codebases.
